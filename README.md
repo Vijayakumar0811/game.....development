@@ -1,5 +1,8 @@
 # EX 10 : ANIMATION USING FLASH
 
+NAME: VIJAYAKUMAR S
+
+REG NO: 212224040359
 
 ## AIM
   
@@ -65,3 +68,6 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/fa80a096-4008-4ec2-8fec-225cff70d56e)
+
